@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/fbsamples/messenger-platform-samples.git"
   },
-  "author": "Facebook",
+  "author": "Derrick",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
